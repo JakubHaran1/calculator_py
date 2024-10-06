@@ -1,0 +1,19 @@
+# Środowisko wirtualne
+venv/
+env/
+.venv/
+
+# Pliki tymczasowe
+__pycache__/
+*.py[cod]
+
+# Pliki konfiguracyjne edytora
+.vscode/
+.idea/
+
+# Pliki logów
+*.log
+
+# Systemy wersjonowania
+.DS_Store
+Thumbs.db
